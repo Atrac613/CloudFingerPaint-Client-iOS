@@ -1,0 +1,653 @@
+TCloudFingerPaint-Client-iOS
+v7
+r0
+t320600263.986945
+cCheck dependencies
+cProcessInfoPlistFile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/Info.plist CloudFingerPaint_Client_iOS-Info.plist
+cCompileXIB /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/MainWindow.xib
+cCompileXIB /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/RootViewController.xib
+cProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch.pth CloudFingerPaint_Client_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS normal i386
+cGenerateDSYMFile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app.dSYM /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS
+cTouch /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CF670950000000000000110
+t1291219093
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.h
+c000000004D6BBDE00000000000000208
+t1298906592
+s520
+i<UIKit/UIKit.h>
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m
+c000000004D6BBDE00000000000000AF0
+t1298906592
+s2800
+i"CloudFingerPaint_Client_iOSAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/JSON.h
+c000000004CF7486D0000000000000BE8
+t1291274349
+s3048
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.h
+c000000004CF7486D000000000000085F
+t1291274349
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m
+c000000004CF7486D000000000000077D
+t1291274349
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.h
+c000000004CF7486D00000000000007F0
+t1291274349
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m
+c000000004CF7486D000000000000075D
+t1291274349
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.h
+c000000004CF7486D0000000000000B82
+t1291274349
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m
+c000000004CF7486D0000000000000AC1
+t1291274349
+s2753
+i"SBJsonBase.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.h
+c000000004CF7486D0000000000000C8F
+t1291274349
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m
+c000000004CF7486D0000000000003B7A
+t1291274349
+s15226
+i"SBJsonParser.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.h
+c000000004CF7486D00000000000011D9
+t1291274349
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m
+c000000004CF7486D00000000000020D8
+t1291274349
+s8408
+i"SBJsonWriter.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.h
+c000000004D6BC05C0000000000000345
+t1298907228
+s837
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m
+c000000004D6BC0920000000000002833
+t1298907282
+s10291
+i"RootViewController.h"
+i"JSON/JSON.h"
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/CloudFingerPaint_Client_iOS_Prefix.pch
+c000000004D6BBDE00000000000000168
+t1298906592
+s360
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/MainWindow.xib
+c000000004D6BBDE00000000000006044
+t1298906592
+s24644
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/RootViewController.xib
+c000000004D6BBFA40000000000005771
+t1298907044
+s22385
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint-Client-iOS.LinkFileList
+c000000004D6BC1390000000000000624
+t1298907449
+s1572
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o
+t1298907452
+s51552
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o
+t1298907452
+s4432
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o
+t1298907452
+s4428
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o
+t1298907452
+s72288
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o
+t1298907452
+s10612
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o
+t1298907452
+s36540
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o
+t1298907452
+s26468
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o
+t1298907452
+s3188
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/CloudFingerPaint_Client_iOSAppDelegate.plist
+t1298907452
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist
+t1298907452
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist
+t1298907452
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/RootViewController.plist
+t1298907452
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/SBJsonBase.plist
+t1298907452
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/SBJsonParser.plist
+t1298907457
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist
+t1298907452
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/main.plist
+t1298907452
+s276
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app
+t1298907463
+s238
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app.dSYM
+t1298907452
+s102
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS
+t1298907452
+s70776
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/Info.plist
+t1298907463
+s651
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/MainWindow.nib
+t1298907450
+s1529
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/PkgInfo
+t1298907463
+s8
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/RootViewController.nib
+t1298907450
+s1251
+
+N/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m
+c000000004D6BBDE00000000000000176
+t1298906592
+s374
+i<UIKit/UIKit.h>
+
+N/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch.gch
+t1298906681
+s15453392
+
+N/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch.pth
+t1298907451
+s2781696
+
+NCloudFingerPaint_Client_iOS-Info.plist
+c000000004D6BC1470000000000000381
+t1298907463
+s897
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m
+s320600252.576267
+e320600252.628087
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m
+lSLF07#2@118"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m320600252#320600252#0(0"0(0#0#110"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m8623451168#2652"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/CloudFingerPaint_Client_iOSAppDelegate.plist0#
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m
+s320600252.630550
+e320600252.678752
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m
+lSLF07#2@100"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m320600252#320600252#0(0"0(0#0#92"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m8623192224#2611"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist0#
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m
+s320600252.678841
+e320600252.742749
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m
+lSLF07#2@100"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m320600252#320600252#0(0"0(0#0#92"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m8623048128#2611"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist0#
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m
+s320600252.725905
+e320600252.778348
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m
+lSLF07#2@95"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m320600252#320600252#0(0"0(0#0#87"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m8620851264#2601"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/SBJsonBase.plist0#
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m
+s320600252.742841
+e320600257.501887
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m
+lSLF07#2@97"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m320600252#320600257#0(0"0(0#0#89"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m8620736064#2605"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/SBJsonParser.plist0#
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m
+s320600252.778599
+e320600252.926833
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m
+lSLF07#2@97"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m320600252#320600252#0(0"0(0#0#89"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m8620650432#2605"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist0#
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m
+s320600252.628188
+e320600252.725790
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m
+lSLF07#2@98"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m320600252#320600252#0(0"0(0#0#90"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m8623350432#2612"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/RootViewController.plist0#
+
+CAnalyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m
+s320600252.464232
+e320600252.576174
+r1
+xAnalyze
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m
+lSLF07#2@76"Analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m320600252#320600252#0(0"0(0#0#68"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m8620926816#2576"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch --analyze /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320600263#320600263#0(0"0(0#1#0"8602200832#0"0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320600082.444001
+e320600082.677569
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m320600082#320600082#0(0"0(0#0#110"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m8612797600#2643"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600251.894929
+e320600252.249125
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@118"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m320600251#320600252#0(0"0(0#0#110"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m8622961440#2679"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/CloudFingerPaint_Client_iOSAppDelegate.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint_Client_iOSAppDelegate.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320599851.960715
+e320599852.058693
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m320599851#320599852#0(0"0(0#0#92"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m5072308201744183296#2602"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600252.249232
+e320600252.284913
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@100"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m320600252#320600252#0(0"0(0#0#92"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m8623765024#2638"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSObject+SBJSON.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320599851.961971
+e320599852.051006
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m320599851#320599852#0(0"0(0#0#92"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m8606353184#2602"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600252.285021
+e320600252.318088
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@100"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m320600252#320600252#0(0"0(0#0#92"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m8623531232#2638"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/NSString+SBJSON.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320600082.453870
+e320600082.849183
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m320600082#320600082#0(0"0(0#0#90"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m8608327200#2603"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600252.205530
+e320600252.348695
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@98"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m320600252#320600252#0(0"0(0#0#90"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m8620810400#2639"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/RootViewController.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320599852.051104
+e320599852.145342
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m320599852#320599852#0(0"0(0#0#87"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m8608951520#2592"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600252.318197
+e320600252.378181
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@95"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m320600252#320600252#0(0"0(0#0#87"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m8623432384#2628"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonBase.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320599852.058796
+e320599852.282120
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m320599852#320599852#0(0"0(0#0#89"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m8598862656#2596"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600252.348798
+e320600252.464137
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@97"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m320600252#320600252#0(0"0(0#0#89"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m8621213472#2632"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonParser.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320599852.145444
+e320599852.281594
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m320599852#320599852#0(0"0(0#0#89"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m8620538976#2596"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600252.378287
+e320600252.551411
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@97"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m320600252#320600252#0(0"0(0#0#89"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m8621162880#2632"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/Classes/JSON/SBJsonWriter.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320599481.450270
+e320599481.636167
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m320599481#320599481#0(0"0(0#0#68"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m8608989920#2567"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o0#
+
+CCompileC build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600251.893819
+e320600252.205428
+r1
+xCompileC
+xbuild/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m320600251#320600252#0(0"0(0#0#68"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m8623069696#2603"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/main.m -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/MainWindow.xib
+s320600249.510883
+e320600250.108979
+r1
+xCompileXIB
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320600249#320600250#0(0"0(0#0#76"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/MainWindow.xib8623221088#659"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/MainWindow.nib /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/RootViewController.xib
+s320600249.511651
+e320600250.083313
+r1
+xCompileXIB
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib320600249#320600250#0(0"0(0#0#84"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/RootViewController.xib8623063456#675"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/RootViewController.nib /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app.dSYM /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS
+s320600252.926932
+e320600252.948446
+r1
+xGenerateDSYMFile
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app.dSYM
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS
+lSLF07#2@169"GenerateDSYMFile build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app.dSYM build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS320600252#320600252#0(0"0(0#0#149"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS8621358656#512"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app.dSYM0#
+
+CLd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS normal i386
+s320600252.551517
+e320600252.630452
+r1
+xLd
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS
+xnormal
+xi386
+lSLF07#2@154"Link /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS320600252#320600252#0(0"0(0#0#0"8623587520#1113"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -filelist /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/Objects-normal/i386/CloudFingerPaint-Client-iOS.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/CloudFingerPaint-Client-iOS0#
+
+CProcessInfoPlistFile /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/Info.plist CloudFingerPaint_Client_iOS-Info.plist
+s320600263.976922
+e320600263.981826
+r1
+xProcessInfoPlistFile
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/Info.plist
+xCloudFingerPaint_Client_iOS-Info.plist
+lSLF07#2@46"Process CloudFingerPaint_Client_iOS-Info.plist320600263#320600263#0(0"0(0#0#100"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/CloudFingerPaint_Client_iOS-Info.plist8590237088#608"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CloudFingerPaint_Client_iOS-Info.plist -genpkginfo /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app/Info.plist0#
+
+CProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch.gch CloudFingerPaint_Client_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320599480.361602
+e320599481.450085
+r1
+xProcessPCH
+x/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch.gch
+xCloudFingerPaint_Client_iOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Precompile CloudFingerPaint_Client_iOS_Prefix.pch320599480#320599481#0(0"0(0#0#100"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/CloudFingerPaint_Client_iOS_Prefix.pch8603667424#2416"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/CloudFingerPaint_Client_iOS_Prefix.pch -o /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-gfmvhubdorwfyfcjuptwnbjpmpbe/CloudFingerPaint_Client_iOS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch.pth CloudFingerPaint_Client_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320600250.109102
+e320600251.893604
+r1
+xProcessPCH
+x/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch.pth
+xCloudFingerPaint_Client_iOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@49"Precompile CloudFingerPaint_Client_iOS_Prefix.pch320600250#320600251#0(0"0(0#0#100"/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/CloudFingerPaint_Client_iOS_Prefix.pch8609826048#2452"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-generated-files.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-own-target-headers.hmap -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/CloudFingerPaint-Client-iOS-project-headers.hmap -F/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/CloudFingerPaint-Client-iOS.build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.build/DerivedSources -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/CloudFingerPaint_Client_iOS_Prefix.pch -o /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudFingerPaint_Client_iOS_Prefix-hixprleytvmygufcmdlqnolcqxak/CloudFingerPaint_Client_iOS_Prefix.pch.pth0#
+
+CTouch /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app
+s320600263.983050
+e320600263.986894
+r1
+xTouch
+x/Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app
+lSLF07#2@127"Touch /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app320600263#320600263#0(0"0(0#0#0"8622589600#344"    cd /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Atrac/Documents/workspace2/CloudFingerPaint-Client-iOS/build/Debug-iphonesimulator/CloudFingerPaint-Client-iOS.app0#
+
