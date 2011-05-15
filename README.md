@@ -16,7 +16,7 @@ CloudFingerPaint とはタブレットコンピューターなどで指を使い
 
 詳しくは下記の動画をご覧ください。
 
-CloudFingerPaint Client for iOS - ScreenCast
+[CloudFingerPaint Client for iOS - ScreenCast][screencast]
 
 連絡先 & リポジトリ
 -------
@@ -27,3 +27,4 @@ Twitter: [Atrac613][twitter]
 
 [twitter]: http://twitter.com/Atrac613
 [cfp]: https://github.com/Atrac613/CloudFingerPaint-Client-iOS
+[screencast]: http://www.screencast.com/t/gFso48g5b
